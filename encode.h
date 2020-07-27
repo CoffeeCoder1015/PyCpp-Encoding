@@ -4,7 +4,7 @@
 #include <vector>
 #include <Python.h>
 #include <iomanip>
-#include <ostream>
+#include <sstream>
 
 std::string func=
 "import random\n"
